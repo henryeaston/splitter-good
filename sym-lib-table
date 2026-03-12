@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MIC94040")(type "KiCad")(uri "${KIPRJMOD}/MIC94040.kicad_sym")(options "")(descr ""))
+  (lib (name "USB5742")(type "KiCad")(uri "${KIPRJMOD}/USB5742.kicad_sym")(options "")(descr ""))
+  (lib (name "USB7002")(type "KiCad")(uri "${KIPRJMOD}/USB7002.kicad_sym")(options "")(descr ""))
+)
